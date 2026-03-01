@@ -1,0 +1,7 @@
+{
+  "name": "LoFi Studio",
+  "description": "A production-ready platform for creators to generate AI-powered lofi tracks and assemble long-form YouTube mixes with professional export assets.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
